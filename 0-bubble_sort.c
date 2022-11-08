@@ -11,9 +11,6 @@ void bubble_sort(int *array, size_t size)
 {
     unsigned int temp, loop_operation, loop_array;
 
-    if (size < 2)
-	    return (0);
-
     for (loop_operation = 1; loop_operation <= size; loop_operation++)
     {
         bool swapped = false;
