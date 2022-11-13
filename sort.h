@@ -46,4 +46,14 @@ void print_list(const listint_t *list);
  */
 void bubble_sort(int *array, size_t size);
 
+
+/**
+ * create_listint - Creates a doubly linked list from an array of integers
+ *
+ * @list: main list
+ *
+ * Return: Pointer to the first element of the created list. NULL on failure
+ */
+void insertion_sort_list(listint_t **list);
+
 #endif

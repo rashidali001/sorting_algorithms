@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668366139 source:c:\users\rashid\desktop\sorting_algorithms\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<strings.h>
+
